@@ -1,4 +1,4 @@
-# Contributing to Hupia
+# Contributing to hupia
 
 Thank you for your interest in contributing to Hupia! Here’s how you can help:
 
@@ -6,7 +6,7 @@ Thank you for your interest in contributing to Hupia! Here’s how you can help:
 1. Fork the repository.
 2. Clone your fork:
    ```bash
-   git clone https://github.com/EbonyNaranja/hupia.git
+   git clone https://github.com/ebonynaranja/hupia.git
 
        Create a new branch:
     bash
