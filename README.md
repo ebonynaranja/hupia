@@ -1,8 +1,8 @@
-# **Hupia**
+# **hupia**
 
-![Hupia Logo](https://via.placeholder.com/150)
+![hupia Logo](https://via.placeholder.com/150)
 
-**Hupia** is a terminal-based web browser that blends the old and the new to create a unique browsing experience. Designed for those who seek knowledge, challenge norms, and embrace hybridity, Hupia is your gateway to the web—rendered in your personalized terminal theme, powered by AI, extensible through Lua scripting, and using the power of Zig.
+**hupia** is a terminal-based web browser that blends the old and the new to create a unique browsing experience. Designed for those who seek knowledge, challenge norms, and embrace hybridity, hupia is your gateway to the web—rendered in your personalized terminal theme, powered by AI, extensible through Lua scripting, and using the power of Zig.
 
 
 ## **Features**
@@ -12,7 +12,7 @@
 - Lightweight and fast, designed for efficiency, implemented with Zig.
 
 ### **2. Lua Scripting**
-- Extend Hupia’s functionality with custom Lua scripts.
+- Extend hupia’s functionality with custom Lua scripts.
 - Automate tasks, customize rendering, and integrate new features.
 
 ### **3. Image and Video Rendering**
@@ -36,17 +36,17 @@
 
 ---
 
-## **Why Hupia? A Deeper Dive**
+## **Why hupia? A Deeper Dive**
 
 ### **The Name**
-- **Hupia**: In Taíno culture, the Hupias are spirits of the night, representing the unseen and the transformative. They are guides between worlds, much like this browser bridges the gap between the terminal and the web.
+- **hupia**: In Taíno culture, the hupias are spirits of the night, representing the unseen and the transformative. They are guides between worlds, much like this browser bridges the gap between the terminal and the web.
 - **Connection to the Project**:
   - **Search**: The Hupia guide seekers through the unknown, just as this browser helps you find knowledge.
   - **Non-conformity**: The Hupia defy the ordinary, just as this browser challenges traditional browsing paradigms.
   - **Hybridity**: The Hupia exist between worlds, just as this browser blends text, images, videos, and AI.
 
 ### **The Journey**
-Hupia was born during late-night coding sessions, where ideas flow freely and boundaries are pushed. It’s a project for those who work in the quiet hours, seeking to create something unique and meaningful.
+hupia was born during late-night coding sessions, where ideas flow freely and boundaries are pushed. It’s a project for those who work in the quiet hours, seeking to create something unique and meaningful.
 
 ---
 
@@ -62,7 +62,7 @@ Hupia was born during late-night coding sessions, where ideas flow freely and bo
    cd hupia
    zig build
    ```
-3. Run Hupia:
+3. Run hupia:
    ```bash
    ./hupia
    ```
@@ -72,13 +72,13 @@ Hupia was born during late-night coding sessions, where ideas flow freely and bo
 - Enable AI features by setting up API keys for OpenAI, Hugging Face, or other services.
 
 ### **Extending Hupia**
-- Write Lua scripts to customize Hupia’s behavior.
+- Write Lua scripts to customize hupia’s behavior.
 - Place scripts in the `scripts/` directory and load them in the browser.
 
 ---
 
 ## **Contributing**
-Hupia is a learning project, and contributions are welcome! Whether you’re fixing bugs, adding features, or writing documentation, your help is appreciated.
+hupia is a learning project, and contributions are welcome! Whether you’re fixing bugs, adding features, or writing documentation, your help is appreciated.
 
 | Contributor | Contribution | Location |
 | ----------- | ------------ | -------- |
