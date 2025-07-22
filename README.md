@@ -90,7 +90,7 @@ Hupia is open-source and released under the **MIT License**. See [LICENSE](LICEN
 ---
 
 ## **Acknowledgments**
-- Inspired by my bro telling me... Why don't you build your own?!!
+- Inspired by my brother telling me... Why don't you build your own?!!
 - Exploring and using Zig for performance and simplicity.
 
 ---
