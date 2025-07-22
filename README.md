@@ -5,7 +5,7 @@
 **hupia** is a terminal-based web browser that blends the old and the new to create a unique browsing experience. Designed for those who seek knowledge, challenge norms, and embrace hybridity, hupia is your gateway to the web—rendered in your personalized terminal theme, powered by AI, extensible through Lua scripting, and using the power of Zig.
 
 
-## **Features**
+## **Upcoming Features**
 
 ### **1. Web Browsing**
 - Browse the web directly in your terminal.
@@ -29,10 +29,8 @@
 - Built for those who reject the status quo.
 - Combines the simplicity of the terminal with the power of modern web technologies.
 
-### **6. Cross-Platform**
-- Initial support for Linux
-- Extended support for MacOs and Windows
-- Futher extended support for iOS, ARM, and RISC-V systems.
+### **6. RISC-V**
+- Initial support for RISC-V architecture.
 
 ---
 
@@ -46,7 +44,7 @@
   - **Hybridity**: The Hupia exist between worlds, just as this browser blends text, images, videos, and AI.
 
 ### **The Journey**
-hupia was born during late-night coding sessions, where ideas flow freely and boundaries are pushed. It’s a project for those who work in the quiet hours, seeking to create something unique and meaningful.
+hupia was conceived during late-night coding sessions, where ideas flow freely and boundaries are pushed. It’s a project for those who work in the quiet hours, seeking to create something unique and meaningful.
 
 ---
 
@@ -93,7 +91,7 @@ Hupia is open-source and released under the **MIT License**. See [LICENSE](LICEN
 
 ## **Acknowledgments**
 - Inspired by my bro telling me... Why don't you build your own?!!
-- Exploring Zig for the first time, and using Zig for performance and simplicity.
+- Exploring and using Zig for performance and simplicity.
 
 ---
 
