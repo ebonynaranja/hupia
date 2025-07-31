@@ -1,6 +1,6 @@
 # **hupia**
 
-![hupia Logo](assets/hupia_logo.png)
+![hupia Logo](assets/hupia_logo_icon.png)
 
 **hupia** is a terminal-based web browser with retro soul and new-school tricks. If you like exploring, tweaking, or just bending the rules of how you use the web, this is for you. Run it in your favorite terminal, theme it your way, extend it with Lua, and use a little AI when you feel like cheating.
 
