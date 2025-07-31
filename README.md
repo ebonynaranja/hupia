@@ -8,7 +8,7 @@
 
 ## **Upcoming Features**
 
-* **Web Browsing**: Cruise the web right from your terminal—fast, light, built with Zig.
+* **Web Browsing**: Cruise the web right from your terminal, fast, light, and built with Zig.
 * **Lua Scripting**: Mod hupia to your heart’s content with custom scripts. Automate, theme, and hack away.
 * **Image & Video Rendering**: See images and video in ASCII art or your terminal colors. Set it how you like.
 * **AI Integration**:
@@ -16,7 +16,7 @@
   * Smart search, auto-summarize, and AI vision for visuals.
   * Voice commands & text-to-speech? Yup, it's in the works.
 * **Non-Conforming Design**: For people who don’t just settle for “the way things are.”
-* **RISC-V**: Native support for this wild-west, next-gen architecture.
+* **RISC-V**: Native support for this open, next-gen architecture.
 
 ---
 
@@ -28,15 +28,14 @@
 
 ## **The Hupia Stack:**
 
-Everything here is written in **Zig** and **Lua**, split up so you can mod or extend what you want.
-
+* **hupia**: Main application, simple web browser
 * **hupia-neuron**: AI features (search, vision, and more)
 * **hupia-chroma**: Rendering engine (ASCII, terminal colors)
 * **hupia-echo**: Voice stuff (commands, speech)
 * **hupia-core**: Board support, core logic
 * **hupia-sentinel**: Parental control and video safety
 
-*Most of these are private for now—open to collaborators and available with a small donation (helps with coffee and server bills). Want them open-source? Let us know, or chip in if you can—every bit helps.*
+*The library code is private, but you can download and use the latest pre-built binaries for free. Want to support the project? Donations help keep things running, but they're always optional.*
 
 ---
 
@@ -70,7 +69,7 @@ This is a learning project—pull requests and issue reports are always welcome.
 
 | Contributor         | What They Did                      | Where |
 | ------------------- | ---------------------------------- | ----- |
-| Ibsen Ramos-Bonilla | Owner, main dev, likes bongo drums | CO    |
+| Ibsen Ramos-Bonilla | Owner, main dev, likes bicycles    | CO    |
 
 ---
 
@@ -80,13 +79,16 @@ MIT. Free to use, break, or remix. See [LICENSE](LICENSE).
 
 ---
 
-## **Support & Donations**
+## Support & Donations
 
-Love what you see? Want the private libs?
+If you like what you see, grab the latest binaries. If you want to throw in a donation (to cover server, coffee, or pizza), here’s how:
 
-* Drop a coffee/donation our way and we’ll send you access.
-* Not a fan of paywalls? Ask! We believe in community and are always open to making more code public with enough support.
-* \[Add your preferred donation method here: GitHub Sponsors, Ko-fi, OpenCollective, PayPal, etc.]
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/YOURKOFILINK) <!-- Replace with your Ko-fi link! -->
+[Buy Me a Coffee](https://www.buymeacoffee.com/YOURNAME) | [PayPal](https://paypal.me/YOURPAYPALLINK) | Venmo: `@YourVenmoHandle`
+
+> **Note:** All donations are optional. The code for the libraries stays private, but binaries are always available for download.
+
+If you want to contribute, collaborate, or get more involved, reach out!
 
 ---
 
