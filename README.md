@@ -6,6 +6,12 @@
 
 ---
 
+## ⚠️ **Attention! EbonyNaranja has moved to Codeberg!**
+
+https://codeberg.org/ebonynaranja
+
+---
+
 ## **Upcoming Features**
 
 * **Web Browsing**: Cruise the web right from your terminal, fast, light, and built with Zig.
@@ -86,7 +92,7 @@ If you like what you see, grab the latest binaries. If you want to throw in a do
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/YOURKOFILINK) <!-- Replace with your Ko-fi link! -->
 [Buy Me a Coffee](https://www.buymeacoffee.com/YOURNAME) | [PayPal](https://paypal.me/YOURPAYPALLINK) | Venmo: `@YourVenmoHandle`
 
-> **Note:** All donations are optional. The code for the libraries stays private, but binaries are always available for download.
+> **Note:** All donations are optional. The code for the libraries stays private.
 
 If you want to contribute, collaborate, or get more involved, reach out!
 
