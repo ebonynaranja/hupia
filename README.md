@@ -2,7 +2,7 @@
 # 🚨 **Repository moved**
 
 ## This project is now maintained on **Codeberg**:
-👉 https://codeberg.org/ebonynaranja/opiav
+👉 https://codeberg.org/ebonynaranja/hupia
 
 ⚠️ This GitHub repository is kept for historical reference only.
 
